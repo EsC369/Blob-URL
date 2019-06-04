@@ -1,0 +1,24 @@
+{
+  "name": "javascript-version",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "blob": "0.0.5",
+    "ejs": "^2.6.1",
+    "express": "^4.17.1",
+    "filereader": "^0.10.3",
+    "node-blob": "0.0.2",
+    "node-fetch": "^2.6.0",
+    "nodemon": "^1.19.1",
+    "read-blob": "^1.1.0",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon app"
+  },
+  "author": "",
+  "license": "ISC"
+}
